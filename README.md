@@ -198,19 +198,6 @@ http://localhost:3000
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots or GIFs of the following:
-
-- Login Page
-- Editor Interface
-- AI Assistant
-- File Explorer
-- Integrated Terminal
-- Dark Mode
-- Project Templates
-
----
 
 ## 🔮 Future Improvements
 
